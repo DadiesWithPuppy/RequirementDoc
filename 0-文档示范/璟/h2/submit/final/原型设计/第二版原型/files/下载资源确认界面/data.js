@@ -1,0 +1,192 @@
+﻿$axure.loadCurrentPage({
+  "url":"下载资源确认界面.html",
+  "generationDate":new Date(1413779867470.12),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"66ddc4d7dc5743f4a11956a9c0b650e5",
+    "type":"Axure:Page",
+    "name":"下载资源确认界面",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e54ed6946645430fa9fd7bcb0debe673",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":140,
+              "y":70},
+            "size":{
+              "width":470,
+              "height":290}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"646ea01758a14fe782014d2511cb99a9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":140,
+                  "y":70},
+                "size":{
+                  "width":470,
+                  "height":290}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/u0.jpg"}},
+{
+          "id":"2f83a8247f574dbd9baf33056eaf036d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"18px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000CC,
+              "opacity":1},
+            "location":{
+              "x":170,
+              "y":164},
+            "size":{
+              "width":390,
+              "height":66}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6e73318c44894256aaed09fdc56adceb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"18px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000CC,
+                  "opacity":1},
+                "location":{
+                  "x":170,
+                  "y":164},
+                "size":{
+                  "width":390,
+                  "height":66}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a7842d6164b64e99b3d779134e59c154",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "location":{
+              "x":410,
+              "y":300},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 在线文档",
+                      "target":{
+                        "targetType":"page",
+                        "url":"在线文档.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"17e46aa4d8504955b718cf7f8a1b4dfc",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"18px",
+            "fontWeight":"700",
+            "location":{
+              "x":250,
+              "y":300},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 查看资源界面",
+                      "target":{
+                        "targetType":"page",
+                        "url":"查看资源界面.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e54ed6946645430fa9fd7bcb0debe673":{
+      "scriptId":"u0"},
+    "646ea01758a14fe782014d2511cb99a9":{
+      "scriptId":"u1"},
+    "2f83a8247f574dbd9baf33056eaf036d":{
+      "scriptId":"u2"},
+    "6e73318c44894256aaed09fdc56adceb":{
+      "scriptId":"u3"},
+    "a7842d6164b64e99b3d779134e59c154":{
+      "scriptId":"u4"},
+    "17e46aa4d8504955b718cf7f8a1b4dfc":{
+      "scriptId":"u5"}}});
