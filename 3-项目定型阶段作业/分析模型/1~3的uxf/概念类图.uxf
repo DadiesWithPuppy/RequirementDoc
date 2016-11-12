@@ -5,21 +5,20 @@
     <id>UMLClass</id>
     <coordinates>
       <x>220</x>
-      <y>130</y>
+      <y>220</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
-    <panel_attributes>菜品口味
+    <panel_attributes>价格检索
 --
-- 菜系
-- 种类</panel_attributes>
+- 价格范围</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>220</x>
-      <y>280</y>
+      <x>0</x>
+      <y>310</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -33,12 +32,12 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>220</x>
-      <y>420</y>
+      <x>0</x>
+      <y>440</y>
       <w>130</w>
-      <h>90</h>
+      <h>100</h>
     </coordinates>
-    <panel_attributes>菜品详细信息
+    <panel_attributes>菜品描述
 --
 - 食材
 - 佐料
@@ -47,25 +46,14 @@
     <additional_attributes/>
   </element>
   <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>270</x>
-      <y>340</y>
-      <w>30</w>
-      <h>100</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
-  </element>
-  <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>640</x>
-      <y>80</y>
+      <x>650</x>
+      <y>130</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
-    <panel_attributes>广告概要信息
+    <panel_attributes>广告列表
 --
 - 广告名</panel_attributes>
     <additional_attributes/>
@@ -73,12 +61,12 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>640</x>
-      <y>490</y>
+      <x>650</x>
+      <y>530</y>
       <w>130</w>
       <h>80</h>
     </coordinates>
-    <panel_attributes>窗口详细信息
+    <panel_attributes>窗口详细描述
 --
 - 厨师介绍
 - 菜品详情
@@ -88,8 +76,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>640</x>
-      <y>340</y>
+      <x>650</x>
+      <y>400</y>
       <w>130</w>
       <h>80</h>
     </coordinates>
@@ -104,7 +92,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>440</x>
-      <y>280</y>
+      <y>300</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -116,25 +104,14 @@
     <additional_attributes/>
   </element>
   <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>700</x>
-      <y>410</y>
-      <w>30</w>
-      <h>100</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
-  </element>
-  <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>640</x>
-      <y>220</y>
+      <x>650</x>
+      <y>260</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
-    <panel_attributes>广告详细信息
+    <panel_attributes>广告详情
 --
 - 广告信息</panel_attributes>
     <additional_attributes/>
@@ -142,96 +119,120 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>690</x>
-      <y>140</y>
-      <w>30</w>
-      <h>100</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
       <x>340</x>
-      <y>160</y>
-      <w>120</w>
-      <h>160</h>
-    </coordinates>
-    <panel_attributes>lt=-
-检索</panel_attributes>
-    <additional_attributes>10.0;10.0;100.0;140.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>340</x>
-      <y>300</y>
-      <w>120</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>lt=-
-查看</panel_attributes>
-    <additional_attributes>10.0;20.0;100.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>340</x>
-      <y>320</y>
-      <w>120</w>
-      <h>160</h>
-    </coordinates>
-    <panel_attributes>lt=-
-查看</panel_attributes>
-    <additional_attributes>10.0;140.0;100.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>560</x>
-      <y>110</y>
-      <w>100</w>
-      <h>200</h>
-    </coordinates>
-    <panel_attributes>lt=-
-查看</panel_attributes>
-    <additional_attributes>10.0;180.0;80.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>560</x>
       <y>250</y>
-      <w>100</w>
-      <h>80</h>
+      <w>120</w>
+      <h>90</h>
     </coordinates>
     <panel_attributes>lt=-
-查看</panel_attributes>
-    <additional_attributes>10.0;60.0;80.0;10.0</additional_attributes>
+发起</panel_attributes>
+    <additional_attributes>10.0;10.0;100.0;70.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>560</x>
-      <y>310</y>
-      <w>100</w>
-      <h>60</h>
+      <y>160</y>
+      <w>110</w>
+      <h>170</h>
     </coordinates>
     <panel_attributes>lt=-
 查看</panel_attributes>
-    <additional_attributes>10.0;10.0;80.0;40.0</additional_attributes>
+    <additional_attributes>10.0;150.0;90.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>560</x>
       <y>330</y>
-      <w>100</w>
-      <h>220</h>
+      <w>110</w>
+      <h>100</h>
     </coordinates>
     <panel_attributes>lt=-
-查看</panel_attributes>
-    <additional_attributes>10.0;10.0;80.0;200.0</additional_attributes>
+查看推荐</panel_attributes>
+    <additional_attributes>10.0;10.0;90.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>220</x>
+      <y>370</y>
+      <w>130</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>口味检索
+--
+- 菜系
+- 种类</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>340</x>
+      <y>330</y>
+      <w>120</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=-
+发起</panel_attributes>
+    <additional_attributes>10.0;80.0;100.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>120</x>
+      <y>340</y>
+      <w>120</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=-
+包含</panel_attributes>
+    <additional_attributes>10.0;10.0;100.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>120</x>
+      <y>250</y>
+      <w>120</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=-
+包含</panel_attributes>
+    <additional_attributes>10.0;80.0;100.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>50</x>
+      <y>370</y>
+      <w>30</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>700</x>
+      <y>470</y>
+      <w>30</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>700</x>
+      <y>190</y>
+      <w>30</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
   </element>
 </diagram>
