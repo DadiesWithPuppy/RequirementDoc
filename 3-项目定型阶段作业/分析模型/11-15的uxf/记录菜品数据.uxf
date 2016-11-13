@@ -4,8 +4,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>336</y>
+      <x>296</x>
+      <y>208</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -16,8 +16,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>360</y>
+      <x>296</x>
+      <y>232</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -28,8 +28,8 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>288</x>
-      <y>336</y>
+      <x>208</x>
+      <y>208</y>
       <w>416</w>
       <h>400</h>
     </coordinates>
@@ -39,8 +39,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>280</x>
-      <y>448</y>
+      <x>200</x>
+      <y>320</y>
       <w>440</w>
       <h>24</h>
     </coordinates>
@@ -50,8 +50,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>384</y>
+      <x>296</x>
+      <y>256</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -62,8 +62,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>472</y>
+      <x>296</x>
+      <y>344</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -74,8 +74,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>504</y>
+      <x>296</x>
+      <y>376</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -86,8 +86,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>416</y>
+      <x>296</x>
+      <y>288</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -98,8 +98,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>536</y>
+      <x>296</x>
+      <y>408</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -110,8 +110,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>568</y>
+      <x>296</x>
+      <y>440</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -122,8 +122,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>600</y>
+      <x>296</x>
+      <y>472</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -134,8 +134,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>632</y>
+      <x>296</x>
+      <y>504</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -146,8 +146,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>696</y>
+      <x>296</x>
+      <y>568</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -158,8 +158,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>664</y>
+      <x>296</x>
+      <y>536</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -170,8 +170,8 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>328</x>
-      <y>152</y>
+      <x>248</x>
+      <y>24</y>
       <w>56</w>
       <h>80</h>
     </coordinates>
@@ -181,8 +181,8 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>240</x>
-      <y>136</y>
+      <x>160</x>
+      <y>8</y>
       <w>488</w>
       <h>664</h>
     </coordinates>
@@ -193,8 +193,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>536</x>
-      <y>176</y>
+      <x>456</x>
+      <y>48</y>
       <w>96</w>
       <h>48</h>
     </coordinates>
@@ -204,8 +204,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>368</x>
-      <y>240</y>
+      <x>288</x>
+      <y>112</y>
       <w>16</w>
       <h>528</h>
     </coordinates>
@@ -215,8 +215,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>368</x>
-      <y>216</y>
+      <x>288</x>
+      <y>88</y>
       <w>24</w>
       <h>40</h>
     </coordinates>
@@ -226,8 +226,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>576</x>
-      <y>240</y>
+      <x>496</x>
+      <y>112</y>
       <w>16</w>
       <h>528</h>
     </coordinates>
@@ -237,8 +237,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>576</x>
-      <y>216</y>
+      <x>496</x>
+      <y>88</y>
       <w>24</w>
       <h>40</h>
     </coordinates>
@@ -248,8 +248,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>368</x>
-      <y>760</y>
+      <x>288</x>
+      <y>632</y>
       <w>24</w>
       <h>48</h>
     </coordinates>
@@ -259,8 +259,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>576</x>
-      <y>760</y>
+      <x>496</x>
+      <y>632</y>
       <w>24</w>
       <h>48</h>
     </coordinates>
@@ -270,8 +270,8 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>312</x>
-      <y>264</y>
+      <x>232</x>
+      <y>136</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -281,8 +281,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>376</x>
-      <y>280</y>
+      <x>296</x>
+      <y>152</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -293,8 +293,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>320</y>
+      <x>184</x>
+      <y>192</y>
       <w>464</w>
       <h>24</h>
     </coordinates>
@@ -304,12 +304,34 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>272</x>
-      <y>248</y>
+      <x>192</x>
+      <y>120</y>
       <w>440</w>
       <h>512</h>
     </coordinates>
     <panel_attributes>par</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>208</x>
+      <y>328</y>
+      <w>112</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>[选择更新菜品信息]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>208</x>
+      <y>224</y>
+      <w>112</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>[选择录入菜品信息]</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>

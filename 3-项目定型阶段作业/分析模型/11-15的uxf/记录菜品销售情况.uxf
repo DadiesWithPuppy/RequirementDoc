@@ -4,8 +4,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>200</y>
+      <x>296</x>
+      <y>192</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -16,8 +16,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>216</y>
+      <x>296</x>
+      <y>208</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -28,8 +28,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>488</y>
+      <x>296</x>
+      <y>480</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -40,8 +40,8 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>384</x>
-      <y>24</y>
+      <x>256</x>
+      <y>16</y>
       <w>56</w>
       <h>80</h>
     </coordinates>
@@ -51,8 +51,8 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>288</x>
-      <y>8</y>
+      <x>160</x>
+      <y>0</y>
       <w>488</w>
       <h>664</h>
     </coordinates>
@@ -63,8 +63,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>584</x>
-      <y>48</y>
+      <x>456</x>
+      <y>40</y>
       <w>96</w>
       <h>48</h>
     </coordinates>
@@ -74,8 +74,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>416</x>
-      <y>112</y>
+      <x>288</x>
+      <y>104</y>
       <w>16</w>
       <h>528</h>
     </coordinates>
@@ -85,8 +85,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>416</x>
-      <y>88</y>
+      <x>288</x>
+      <y>80</y>
       <w>24</w>
       <h>40</h>
     </coordinates>
@@ -96,8 +96,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>624</x>
-      <y>112</y>
+      <x>496</x>
+      <y>104</y>
       <w>16</w>
       <h>528</h>
     </coordinates>
@@ -107,8 +107,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>624</x>
-      <y>88</y>
+      <x>496</x>
+      <y>80</y>
       <w>24</w>
       <h>40</h>
     </coordinates>
@@ -118,8 +118,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>416</x>
-      <y>632</y>
+      <x>288</x>
+      <y>624</y>
       <w>24</w>
       <h>48</h>
     </coordinates>
@@ -129,8 +129,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>624</x>
-      <y>632</y>
+      <x>496</x>
+      <y>624</y>
       <w>24</w>
       <h>48</h>
     </coordinates>
@@ -140,8 +140,8 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>360</x>
-      <y>136</y>
+      <x>232</x>
+      <y>128</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -151,8 +151,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>152</y>
+      <x>296</x>
+      <y>144</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -163,8 +163,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>312</x>
-      <y>192</y>
+      <x>184</x>
+      <y>184</y>
       <w>464</w>
       <h>24</h>
     </coordinates>
@@ -174,8 +174,8 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>320</x>
-      <y>120</y>
+      <x>192</x>
+      <y>112</y>
       <w>440</w>
       <h>512</h>
     </coordinates>
@@ -185,19 +185,19 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>344</x>
-      <y>248</y>
+      <x>216</x>
+      <y>240</y>
       <w>408</w>
       <h>224</h>
     </coordinates>
-    <panel_attributes>loop[还有下一个菜品取消录入]</panel_attributes>
+    <panel_attributes>loop[还有下一个菜品]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>352</x>
-      <y>272</y>
+      <x>224</x>
+      <y>264</y>
       <w>376</w>
       <h>184</h>
     </coordinates>
@@ -207,8 +207,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>344</x>
-      <y>312</y>
+      <x>216</x>
+      <y>304</y>
       <w>400</w>
       <h>24</h>
     </coordinates>
@@ -218,8 +218,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>288</y>
+      <x>296</x>
+      <y>280</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -230,8 +230,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>344</x>
-      <y>360</y>
+      <x>216</x>
+      <y>352</y>
       <w>400</w>
       <h>24</h>
     </coordinates>
@@ -241,8 +241,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>328</y>
+      <x>296</x>
+      <y>320</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -253,8 +253,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>376</y>
+      <x>296</x>
+      <y>368</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -265,8 +265,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>392</y>
+      <x>296</x>
+      <y>384</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -277,8 +277,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>424</y>
+      <x>296</x>
+      <y>416</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -289,8 +289,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>408</y>
+      <x>296</x>
+      <y>400</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -301,8 +301,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>472</y>
+      <x>296</x>
+      <y>464</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -313,8 +313,8 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>352</x>
-      <y>512</y>
+      <x>224</x>
+      <y>504</y>
       <w>376</w>
       <h>72</h>
     </coordinates>
@@ -324,8 +324,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>512</y>
+      <x>296</x>
+      <y>504</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -336,8 +336,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>344</x>
-      <y>536</y>
+      <x>216</x>
+      <y>528</y>
       <w>400</w>
       <h>24</h>
     </coordinates>
@@ -347,8 +347,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>552</y>
+      <x>296</x>
+      <y>544</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
@@ -359,13 +359,68 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>424</x>
-      <y>592</y>
+      <x>296</x>
+      <y>584</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 录入结束</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>248</x>
+      <y>264</y>
+      <w>64</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>[删除菜品]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>224</x>
+      <y>312</y>
+      <w>64</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>[普通菜品]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>224</x>
+      <y>360</y>
+      <w>88</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>[需称重菜品]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>224</x>
+      <y>536</y>
+      <w>96</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>[校外人员消费]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>248</x>
+      <y>504</y>
+      <w>96</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>[校内人员消费]</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
