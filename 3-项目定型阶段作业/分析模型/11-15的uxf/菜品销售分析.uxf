@@ -4,7 +4,7 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>234</x>
+      <x>324</x>
       <y>36</y>
       <w>72</w>
       <h>90</h>
@@ -15,7 +15,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>117</x>
+      <x>207</x>
       <y>18</y>
       <w>549</w>
       <h>612</h>
@@ -27,7 +27,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>450</x>
+      <x>540</x>
       <y>63</y>
       <w>108</w>
       <h>54</h>
@@ -38,7 +38,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>261</x>
+      <x>351</x>
       <y>135</y>
       <w>18</w>
       <h>459</h>
@@ -49,7 +49,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>261</x>
+      <x>351</x>
       <y>108</y>
       <w>27</w>
       <h>45</h>
@@ -60,7 +60,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>495</x>
+      <x>585</x>
       <y>135</y>
       <w>18</w>
       <h>459</h>
@@ -71,7 +71,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>495</x>
+      <x>585</x>
       <y>108</y>
       <w>27</w>
       <h>45</h>
@@ -82,7 +82,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>360</x>
       <y>252</y>
       <w>243</w>
       <h>36</h>
@@ -94,7 +94,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>360</x>
       <y>333</y>
       <w>243</w>
       <h>36</h>
@@ -106,7 +106,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>360</x>
       <y>378</y>
       <w>243</w>
       <h>36</h>
@@ -118,19 +118,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>360</x>
       <y>405</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-提示输入时间范围</panel_attributes>
+时间范围输入提示</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>198</x>
+      <x>288</x>
       <y>360</y>
       <w>369</w>
       <h>126</h>
@@ -141,7 +141,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>360</x>
       <y>432</y>
       <w>243</w>
       <h>36</h>
@@ -153,7 +153,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>360</x>
       <y>513</y>
       <w>243</w>
       <h>36</h>
@@ -165,7 +165,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>360</x>
       <y>540</y>
       <w>243</w>
       <h>36</h>
@@ -177,7 +177,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>261</x>
+      <x>351</x>
       <y>585</y>
       <w>27</w>
       <h>54</h>
@@ -188,7 +188,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>495</x>
+      <x>585</x>
       <y>585</y>
       <w>27</w>
       <h>54</h>
@@ -199,7 +199,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>360</x>
       <y>450</y>
       <w>243</w>
       <h>36</h>
@@ -211,7 +211,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>153</x>
+      <x>243</x>
       <y>153</y>
       <w>495</w>
       <h>432</h>
@@ -222,7 +222,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>198</x>
+      <x>288</x>
       <y>162</y>
       <w>369</w>
       <h>63</h>
@@ -233,7 +233,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>360</x>
       <y>180</y>
       <w>243</w>
       <h>36</h>
@@ -245,7 +245,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
+      <x>234</x>
       <y>234</y>
       <w>513</w>
       <h>27</h>
@@ -256,7 +256,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>198</x>
+      <x>288</x>
       <y>279</y>
       <w>369</w>
       <h>54</h>
@@ -267,7 +267,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>360</x>
       <y>297</y>
       <w>243</w>
       <h>36</h>
@@ -279,7 +279,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>198</x>
+      <x>288</x>
       <y>504</y>
       <w>369</w>
       <h>72</h>
