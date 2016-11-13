@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.3">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>10</x>
+      <y>50</y>
+      <w>100</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>消费者
+--
+身份信息
+口味信息
+消费记录
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>300</x>
+      <y>70</y>
+      <w>100</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>点评
+--
+内容
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>10</x>
+      <y>360</y>
+      <w>100</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>好友
+--
+身份信息
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>100</x>
+      <y>80</y>
+      <w>220</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>1        分享、添加、评价      *</panel_attributes>
+    <additional_attributes>200.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>290</x>
+      <y>360</y>
+      <w>100</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>好友列表
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>50</x>
+      <y>140</y>
+      <w>60</w>
+      <h>240</h>
+    </coordinates>
+    <panel_attributes>选择</panel_attributes>
+    <additional_attributes>10.0;220.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>100</x>
+      <y>370</y>
+      <w>210</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-
+*        被...包含        1</panel_attributes>
+    <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>60</x>
+      <y>340</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>350</x>
+      <y>190</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>100</x>
+      <y>120</y>
+      <w>220</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>查看</panel_attributes>
+    <additional_attributes>10.0;10.0;200.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>300</x>
+      <y>220</y>
+      <w>100</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>菜品
+--
+基本信息
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>340</x>
+      <y>120</y>
+      <w>80</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-
+被...包含</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>60</x>
+      <y>150</y>
+      <w>100</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>230</x>
+      <y>210</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>540</x>
+      <y>70</y>
+      <w>100</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>评价
+--
+内容
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>390</x>
+      <y>80</y>
+      <w>170</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-
+1      包含      *</panel_attributes>
+    <additional_attributes>10.0;20.0;150.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>110</x>
+      <y>120</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>350</x>
+      <y>130</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>*</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
