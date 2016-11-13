@@ -4,19 +4,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>320</y>
+      <x>432</x>
+      <y>328</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-显示该记录详细信息</panel_attributes>
+该记录详细信息</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>512</y>
       <w>216</w>
       <h>32</h>
@@ -28,7 +28,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>152</x>
+      <x>320</x>
       <y>128</y>
       <w>440</w>
       <h>696</h>
@@ -39,7 +39,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
+      <x>312</x>
       <y>200</y>
       <w>464</w>
       <h>24</h>
@@ -50,7 +50,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>120</x>
+      <x>288</x>
       <y>0</y>
       <w>504</w>
       <h>864</h>
@@ -62,7 +62,7 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>224</x>
+      <x>392</x>
       <y>32</y>
       <w>56</w>
       <h>80</h>
@@ -73,7 +73,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>424</x>
+      <x>592</x>
       <y>56</y>
       <w>96</w>
       <h>48</h>
@@ -84,7 +84,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>464</x>
+      <x>632</x>
       <y>96</y>
       <w>24</w>
       <h>40</h>
@@ -95,7 +95,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>464</x>
+      <x>632</x>
       <y>120</y>
       <w>16</w>
       <h>728</h>
@@ -106,7 +106,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>256</x>
+      <x>424</x>
       <y>120</y>
       <w>16</w>
       <h>728</h>
@@ -117,7 +117,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>256</x>
+      <x>424</x>
       <y>840</y>
       <w>24</w>
       <h>88</h>
@@ -128,7 +128,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>464</x>
+      <x>632</x>
       <y>840</y>
       <w>24</w>
       <h>88</h>
@@ -139,7 +139,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>160</y>
       <w>216</w>
       <h>32</h>
@@ -151,7 +151,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>200</x>
+      <x>368</x>
       <y>144</y>
       <w>328</w>
       <h>56</h>
@@ -162,7 +162,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>208</y>
       <w>216</w>
       <h>32</h>
@@ -174,42 +174,42 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>264</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-显示所有消费记录</panel_attributes>
+所有消费记录</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>544</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-显示上个月的消费分析报表</panel_attributes>
+上月的消费分析报表</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>160</x>
+      <x>328</x>
       <y>232</y>
       <w>424</w>
       <h>552</h>
     </coordinates>
-    <panel_attributes>alt选择查看类型</panel_attributes>
+    <panel_attributes>alt</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>240</y>
       <w>216</w>
       <h>32</h>
@@ -221,7 +221,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
+      <x>312</x>
       <y>488</y>
       <w>448</w>
       <h>24</h>
@@ -232,10 +232,10 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>200</x>
-      <y>296</y>
+      <x>368</x>
+      <y>288</y>
       <w>328</w>
-      <h>56</h>
+      <h>64</h>
     </coordinates>
     <panel_attributes>opt[用户选择查看某一条消费记录]</panel_attributes>
     <additional_attributes/>
@@ -243,7 +243,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>200</x>
+      <x>368</x>
       <y>360</y>
       <w>328</w>
       <h>112</h>
@@ -254,7 +254,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>376</y>
       <w>216</w>
       <h>32</h>
@@ -266,19 +266,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>400</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-提示输入筛选信息</panel_attributes>
+筛选信息输入提示</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>424</y>
       <w>216</w>
       <h>32</h>
@@ -290,19 +290,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>448</y>
       <w>216</w>
       <h>32</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-筛选后的消费记录</panel_attributes>
+筛选结果</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>200</x>
+      <x>368</x>
       <y>584</y>
       <w>328</w>
       <h>160</h>
@@ -313,7 +313,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>608</y>
       <w>216</w>
       <h>40</h>
@@ -326,20 +326,20 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>704</y>
       <w>216</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-显示该月份的消费分析报表
+该月份消费分析报表
 </panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>216</x>
+      <x>384</x>
       <y>640</y>
       <w>296</w>
       <h>56</h>
@@ -350,14 +350,48 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>432</x>
       <y>664</y>
       <w>216</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-提示该月没有产生消费分析报表
+错误提示
 </panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>432</x>
+      <y>312</y>
+      <w>216</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;&gt;
+某条消费记录</panel_attributes>
+    <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>352</x>
+      <y>232</y>
+      <w>88</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>[查看消费类型]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>336</x>
+      <y>504</y>
+      <w>88</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>[现无消费计划]</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>

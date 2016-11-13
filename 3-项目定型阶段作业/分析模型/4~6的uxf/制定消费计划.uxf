@@ -4,7 +4,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
+      <x>450</x>
       <y>450</y>
       <w>270</w>
       <h>40</h>
@@ -16,19 +16,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
+      <x>450</x>
       <y>480</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-提示填写计划信息</panel_attributes>
+输入提示</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
+      <x>450</x>
       <y>520</y>
       <w>270</w>
       <h>40</h>
@@ -40,7 +40,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
+      <x>450</x>
       <y>720</y>
       <w>270</w>
       <h>40</h>
@@ -52,31 +52,31 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
+      <x>450</x>
       <y>750</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-实时显示当前拟设定的消费警戒金额</panel_attributes>
+当前拟设定的消费警戒金额</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
+      <x>450</x>
       <y>830</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-提示消费计划制定成功</panel_attributes>
+制定成功提示</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>60</x>
+      <x>310</x>
       <y>160</y>
       <w>550</w>
       <h>710</h>
@@ -87,7 +87,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>50</x>
+      <x>300</x>
       <y>250</y>
       <w>580</w>
       <h>30</h>
@@ -98,7 +98,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>20</x>
+      <x>270</x>
       <y>0</y>
       <w>630</w>
       <h>940</h>
@@ -110,7 +110,7 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>150</x>
+      <x>400</x>
       <y>40</y>
       <w>70</w>
       <h>100</h>
@@ -121,7 +121,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>400</x>
+      <x>650</x>
       <y>70</y>
       <w>120</w>
       <h>60</h>
@@ -132,7 +132,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>450</x>
+      <x>700</x>
       <y>120</y>
       <w>30</w>
       <h>50</h>
@@ -143,7 +143,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>450</x>
+      <x>700</x>
       <y>150</y>
       <w>20</w>
       <h>770</h>
@@ -154,7 +154,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>190</x>
+      <x>440</x>
       <y>150</y>
       <w>20</w>
       <h>770</h>
@@ -165,7 +165,18 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>190</x>
+      <x>440</x>
+      <y>910</y>
+      <w>30</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>700</x>
       <y>910</y>
       <w>30</w>
       <h>110</h>
@@ -177,17 +188,6 @@
     <id>Relation</id>
     <coordinates>
       <x>450</x>
-      <y>910</y>
-      <w>30</w>
-      <h>110</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>200</x>
       <y>200</y>
       <w>270</w>
       <h>40</h>
@@ -199,7 +199,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>120</x>
+      <x>370</x>
       <y>180</y>
       <w>410</w>
       <h>70</h>
@@ -210,7 +210,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
+      <x>450</x>
       <y>260</y>
       <w>270</w>
       <h>40</h>
@@ -222,19 +222,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
-      <y>410</y>
+      <x>450</x>
+      <y>400</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-系统显示当前计划信息</panel_attributes>
+当前计划信息</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>120</x>
+      <x>370</x>
       <y>690</y>
       <w>410</w>
       <h>100</h>
@@ -245,19 +245,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
+      <x>450</x>
       <y>600</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-提示月消费上限不能低于100人民币</panel_attributes>
+错误提示</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
+      <x>450</x>
       <y>630</y>
       <w>270</w>
       <h>40</h>
@@ -269,41 +269,41 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>120</x>
+      <x>370</x>
       <y>570</y>
       <w>410</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>opt[月消费上限低于系统设定最低值]</panel_attributes>
+    <panel_attributes>loop[月消费上限低于系统设定最低值]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>120</x>
+      <x>370</x>
       <y>310</y>
       <w>410</w>
-      <h>90</h>
+      <h>140</h>
     </coordinates>
-    <panel_attributes>opt[当前无计划信息]</panel_attributes>
+    <panel_attributes>alt</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
+      <x>450</x>
       <y>340</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-提示当前无消费计划</panel_attributes>
+当前无消费计划提示</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
+      <x>450</x>
       <y>800</y>
       <w>270</w>
       <h>40</h>
@@ -311,5 +311,38 @@
     <panel_attributes>lt=-&gt;&gt;&gt;
 确认警戒值百分比</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>360</x>
+      <y>380</y>
+      <w>440</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;420.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>400</x>
+      <y>310</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>[现无消费计划]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>380</x>
+      <y>390</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>[现有消费计划]</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
