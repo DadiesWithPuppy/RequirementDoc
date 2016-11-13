@@ -308,7 +308,7 @@
       <w>287</w>
       <h>63</h>
     </coordinates>
-    <panel_attributes>break[与现有策略冲突]</panel_attributes>
+    <panel_attributes>opt[与现有策略冲突]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>

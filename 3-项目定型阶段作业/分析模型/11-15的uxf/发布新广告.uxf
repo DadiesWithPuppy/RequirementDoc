@@ -226,7 +226,7 @@
       <w>328</w>
       <h>56</h>
     </coordinates>
-    <panel_attributes>break[图片太大]</panel_attributes>
+    <panel_attributes>opt[图片太大]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -285,7 +285,7 @@
       <w>328</w>
       <h>56</h>
     </coordinates>
-    <panel_attributes>break[文字超上限]</panel_attributes>
+    <panel_attributes>opt[文字超上限]</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
