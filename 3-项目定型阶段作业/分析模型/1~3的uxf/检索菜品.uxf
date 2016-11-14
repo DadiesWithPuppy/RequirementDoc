@@ -4,8 +4,8 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>261</x>
-      <y>45</y>
+      <x>297</x>
+      <y>135</y>
       <w>54</w>
       <h>90</h>
     </coordinates>
@@ -15,10 +15,10 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>135</x>
-      <y>0</y>
-      <w>549</w>
-      <h>891</h>
+      <x>108</x>
+      <y>99</y>
+      <w>666</w>
+      <h>1134</h>
     </coordinates>
     <panel_attributes>sd UC-1
 </panel_attributes>
@@ -27,8 +27,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>468</x>
-      <y>45</y>
+      <x>504</x>
+      <y>144</y>
       <w>108</w>
       <h>54</h>
     </coordinates>
@@ -38,10 +38,10 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>279</x>
-      <y>162</y>
+      <x>315</x>
+      <y>270</y>
       <w>18</w>
-      <h>648</h>
+      <h>891</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -49,21 +49,21 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>279</x>
-      <y>126</y>
+      <x>315</x>
+      <y>207</y>
       <w>27</w>
-      <h>54</h>
+      <h>81</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;40.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>513</x>
-      <y>171</y>
+      <x>549</x>
+      <y>270</y>
       <w>18</w>
-      <h>54</h>
+      <h>891</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -71,8 +71,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>513</x>
-      <y>90</y>
+      <x>549</x>
+      <y>189</y>
       <w>27</w>
       <h>99</h>
     </coordinates>
@@ -82,8 +82,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>162</y>
+      <x>324</x>
+      <y>423</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
@@ -94,8 +94,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>198</y>
+      <x>315</x>
+      <y>459</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
@@ -104,56 +104,22 @@
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>513</x>
-      <y>369</y>
-      <w>18</w>
-      <h>117</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>Relation</id>
     <coordinates>
-      <x>513</x>
-      <y>216</y>
-      <w>27</w>
-      <h>63</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>288</x>
-      <y>369</y>
-      <w>243</w>
-      <h>36</h>
-    </coordinates>
-    <panel_attributes>lt=-&gt;&gt;&gt;
-选择价格检索</panel_attributes>
-    <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>288</x>
-      <y>405</y>
+      <x>324</x>
+      <y>558</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-提示选择价格范围</panel_attributes>
+价格范围选择提示</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>171</x>
-      <y>342</y>
+      <x>207</x>
+      <y>495</y>
       <w>477</w>
       <h>333</h>
     </coordinates>
@@ -163,8 +129,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>162</x>
-      <y>495</y>
+      <x>198</x>
+      <y>648</y>
       <w>504</w>
       <h>27</h>
     </coordinates>
@@ -174,8 +140,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>441</y>
+      <x>324</x>
+      <y>594</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
@@ -184,32 +150,10 @@
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>513</x>
-      <y>531</y>
-      <w>18</w>
-      <h>117</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>Relation</id>
     <coordinates>
-      <x>513</x>
-      <y>477</y>
-      <w>27</w>
-      <h>72</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>288</x>
-      <y>540</y>
+      <x>324</x>
+      <y>693</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
@@ -220,8 +164,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>612</y>
+      <x>324</x>
+      <y>765</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
@@ -232,31 +176,20 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>576</y>
+      <x>324</x>
+      <y>729</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-提示选择口味</panel_attributes>
+口味选择提示</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>513</x>
-      <y>639</y>
-      <w>27</w>
-      <h>117</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;110.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>171</x>
-      <y>702</y>
+      <x>207</x>
+      <y>999</y>
       <w>477</w>
       <h>144</h>
     </coordinates>
@@ -266,8 +199,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>747</y>
+      <x>324</x>
+      <y>1044</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
@@ -278,8 +211,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>774</y>
+      <x>324</x>
+      <y>1080</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
@@ -288,21 +221,10 @@
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>513</x>
-      <y>738</y>
-      <w>18</w>
-      <h>72</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>189</x>
-      <y>729</y>
+      <x>225</x>
+      <y>1026</y>
       <w>441</w>
       <h>99</h>
     </coordinates>
@@ -312,30 +234,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>279</x>
-      <y>801</y>
+      <x>315</x>
+      <y>1152</y>
       <w>27</w>
-      <h>90</h>
+      <h>54</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>513</x>
-      <y>801</y>
-      <w>27</w>
-      <h>90</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>171</x>
-      <y>243</y>
+      <x>207</x>
+      <y>306</y>
       <w>477</w>
       <h>81</h>
     </coordinates>
@@ -343,37 +254,132 @@
     <additional_attributes/>
   </element>
   <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>513</x>
-      <y>261</y>
-      <w>18</w>
-      <h>54</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>Relation</id>
     <coordinates>
-      <x>513</x>
-      <y>306</y>
-      <w>27</w>
-      <h>81</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>288</x>
-      <y>270</y>
+      <x>324</x>
+      <y>333</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 取消检索</panel_attributes>
+    <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>324</x>
+      <y>522</y>
+      <w>243</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;&gt;
+选择价格检索</panel_attributes>
+    <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>549</x>
+      <y>1152</y>
+      <w>27</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>324</x>
+      <y>954</y>
+      <w>243</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+菜品概要信息</panel_attributes>
+    <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLFrame</id>
+    <coordinates>
+      <x>153</x>
+      <y>288</y>
+      <w>567</w>
+      <h>918</h>
+    </coordinates>
+    <panel_attributes>par
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>144</x>
+      <y>405</y>
+      <w>594</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;640.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>405</x>
+      <y>657</y>
+      <w>99</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>[口味检索]
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>405</x>
+      <y>495</y>
+      <w>99</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>[价格检索]
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLFrame</id>
+    <coordinates>
+      <x>207</x>
+      <y>855</y>
+      <w>477</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>break没有符合条件的菜品</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>324</x>
+      <y>900</y>
+      <w>243</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;&gt;
+取消检索</panel_attributes>
+    <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>324</x>
+      <y>873</y>
+      <w>243</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+未找到菜品提示</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
 </diagram>
