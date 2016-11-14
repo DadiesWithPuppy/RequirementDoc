@@ -5,7 +5,7 @@
     <id>UMLActor</id>
     <coordinates>
       <x>248</x>
-      <y>64</y>
+      <y>72</y>
       <w>48</w>
       <h>80</h>
     </coordinates>
@@ -16,7 +16,7 @@
     <id>UMLGeneric</id>
     <coordinates>
       <x>424</x>
-      <y>112</y>
+      <y>120</y>
       <w>80</w>
       <h>24</h>
     </coordinates>
@@ -27,7 +27,7 @@
     <id>UMLGeneric</id>
     <coordinates>
       <x>264</x>
-      <y>176</y>
+      <y>184</y>
       <w>16</w>
       <h>424</h>
     </coordinates>
@@ -38,7 +38,7 @@
     <id>UMLGeneric</id>
     <coordinates>
       <x>456</x>
-      <y>176</y>
+      <y>184</y>
       <w>16</w>
       <h>424</h>
     </coordinates>
@@ -61,7 +61,7 @@
     <id>Relation</id>
     <coordinates>
       <x>272</x>
-      <y>232</y>
+      <y>328</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -73,19 +73,19 @@
     <id>Relation</id>
     <coordinates>
       <x>272</x>
-      <y>376</y>
+      <y>384</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-提示输入评价</panel_attributes>
+输入提示信息</panel_attributes>
     <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>264</x>
-      <y>136</y>
+      <y>144</y>
       <w>24</w>
       <h>56</h>
     </coordinates>
@@ -96,7 +96,7 @@
     <id>Relation</id>
     <coordinates>
       <x>456</x>
-      <y>136</y>
+      <y>144</y>
       <w>24</w>
       <h>56</h>
     </coordinates>
@@ -107,7 +107,7 @@
     <id>Relation</id>
     <coordinates>
       <x>272</x>
-      <y>344</y>
+      <y>352</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -119,11 +119,11 @@
     <id>UMLFrame</id>
     <coordinates>
       <x>224</x>
-      <y>440</y>
-      <w>264</w>
-      <h>104</h>
+      <y>448</y>
+      <w>280</w>
+      <h>96</h>
     </coordinates>
-    <panel_attributes>break[点评字数超过140字]
+    <panel_attributes>loop
 --</panel_attributes>
     <additional_attributes/>
   </element>
@@ -131,19 +131,19 @@
     <id>Relation</id>
     <coordinates>
       <x>272</x>
-      <y>408</y>
+      <y>416</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-输入评价信息</panel_attributes>
+编写评价</panel_attributes>
     <additional_attributes>230.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>272</x>
-      <y>552</y>
+      <y>560</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -155,19 +155,19 @@
     <id>Relation</id>
     <coordinates>
       <x>272</x>
-      <y>464</y>
+      <y>472</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-重新输入提示</panel_attributes>
+字数过多提示</panel_attributes>
     <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>272</x>
-      <y>488</y>
+      <y>504</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -178,12 +178,12 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>232</x>
-      <y>264</y>
-      <w>264</w>
-      <h>72</h>
+      <x>216</x>
+      <y>240</y>
+      <w>288</w>
+      <h>80</h>
     </coordinates>
-    <panel_attributes>break[无该菜品点评信息]
+    <panel_attributes>break
 --</panel_attributes>
     <additional_attributes/>
   </element>
@@ -191,7 +191,7 @@
     <id>Relation</id>
     <coordinates>
       <x>272</x>
-      <y>296</y>
+      <y>288</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -202,20 +202,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>272</x>
-      <y>512</y>
-      <w>200</w>
-      <h>32</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;.
-评价成功提示</panel_attributes>
-    <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
       <x>264</x>
-      <y>592</y>
+      <y>600</y>
       <w>24</w>
       <h>56</h>
     </coordinates>
@@ -226,11 +214,45 @@
     <id>Relation</id>
     <coordinates>
       <x>456</x>
-      <y>592</y>
+      <y>600</y>
       <w>24</w>
       <h>56</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>272</x>
+      <y>264</y>
+      <w>200</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+无点评提示</panel_attributes>
+    <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>280</x>
+      <y>240</y>
+      <w>120</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>[无该菜品点评信息]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>280</x>
+      <y>448</y>
+      <w>120</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>[点评字数超过140字]</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>

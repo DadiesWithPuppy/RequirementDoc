@@ -96,12 +96,12 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>207</x>
+      <x>171</x>
       <y>333</y>
-      <w>270</w>
+      <w>324</w>
       <h>99</h>
     </coordinates>
-    <panel_attributes>break  [无该菜品点评信息]</panel_attributes>
+    <panel_attributes>break</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -171,5 +171,16 @@
     <panel_attributes>lt=&lt;.
 点评信息</panel_attributes>
     <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>243</x>
+      <y>333</y>
+      <w>126</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>[无该菜品点评信息]</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>

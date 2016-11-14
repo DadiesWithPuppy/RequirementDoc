@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="13.3">
-  <zoom_level>8</zoom_level>
+  <zoom_level>7</zoom_level>
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>240</x>
-      <y>0</y>
-      <w>48</w>
-      <h>80</h>
+      <x>308</x>
+      <y>28</y>
+      <w>42</w>
+      <h>70</h>
     </coordinates>
     <panel_attributes>消费者</panel_attributes>
     <additional_attributes/>
@@ -15,10 +15,10 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>416</x>
-      <y>24</y>
-      <w>80</w>
-      <h>24</h>
+      <x>462</x>
+      <y>49</y>
+      <w>70</w>
+      <h>21</h>
     </coordinates>
     <panel_attributes>系统</panel_attributes>
     <additional_attributes/>
@@ -26,10 +26,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>448</x>
-      <y>40</y>
-      <w>24</w>
-      <h>64</h>
+      <x>490</x>
+      <y>63</y>
+      <w>21</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
@@ -37,10 +37,10 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>256</x>
-      <y>88</y>
-      <w>16</w>
-      <h>560</h>
+      <x>322</x>
+      <y>105</y>
+      <w>14</w>
+      <h>490</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -48,10 +48,10 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>448</x>
-      <y>88</y>
-      <w>16</w>
-      <h>560</h>
+      <x>490</x>
+      <y>105</y>
+      <w>14</w>
+      <h>490</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -59,10 +59,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>192</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>196</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 要求分享点评</panel_attributes>
@@ -71,10 +71,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>216</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>217</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 分享途径</panel_attributes>
@@ -83,21 +83,21 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>208</x>
-      <y>248</y>
-      <w>304</w>
-      <h>368</h>
+      <x>266</x>
+      <y>245</y>
+      <w>280</w>
+      <h>322</h>
     </coordinates>
-    <panel_attributes>alt[分享给好友]</panel_attributes>
+    <panel_attributes>alt</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>264</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>259</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 选择分享给好友</panel_attributes>
@@ -106,10 +106,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>376</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>357</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 好友列表</panel_attributes>
@@ -118,10 +118,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>400</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>378</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 选择好友</panel_attributes>
@@ -130,10 +130,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>472</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>441</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 选择分享平台</panel_attributes>
@@ -142,32 +142,32 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>240</x>
-      <y>296</y>
-      <w>240</w>
-      <h>80</h>
+      <x>287</x>
+      <y>287</y>
+      <w>231</w>
+      <h>70</h>
     </coordinates>
-    <panel_attributes>break  [消费者当前无好友]</panel_attributes>
+    <panel_attributes>break</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>240</x>
-      <y>504</y>
-      <w>240</w>
-      <h>80</h>
+      <x>287</x>
+      <y>469</y>
+      <w>231</w>
+      <h>70</h>
     </coordinates>
-    <panel_attributes>break  [系统无打开其他应用的权限]</panel_attributes>
+    <panel_attributes>break</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>344</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>329</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 取消分享</panel_attributes>
@@ -176,10 +176,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>584</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>539</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 分享成功信息</panel_attributes>
@@ -188,10 +188,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>552</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>511</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 取消分享</panel_attributes>
@@ -200,10 +200,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>256</x>
-      <y>640</y>
-      <w>24</w>
-      <h>72</h>
+      <x>322</x>
+      <y>588</y>
+      <w>21</w>
+      <h>63</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
@@ -211,10 +211,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>448</x>
-      <y>640</y>
-      <w>24</w>
-      <h>64</h>
+      <x>490</x>
+      <y>588</y>
+      <w>21</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
@@ -222,21 +222,21 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>240</x>
-      <y>112</y>
-      <w>240</w>
-      <h>56</h>
+      <x>287</x>
+      <y>126</y>
+      <w>231</w>
+      <h>49</h>
     </coordinates>
-    <panel_attributes>break[取消分享]</panel_attributes>
+    <panel_attributes>break</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>168</x>
-      <y>96</y>
-      <w>384</w>
-      <h>544</h>
+      <x>245</x>
+      <y>112</y>
+      <w>336</w>
+      <h>476</h>
     </coordinates>
     <panel_attributes>par
 </panel_attributes>
@@ -245,10 +245,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>128</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>140</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 结束分享操作</panel_attributes>
@@ -257,10 +257,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>160</x>
-      <y>168</y>
-      <w>408</w>
-      <h>32</h>
+      <x>238</x>
+      <y>175</y>
+      <w>357</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=.
 </panel_attributes>
@@ -269,22 +269,22 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
-      <y>440</y>
-      <w>328</w>
-      <h>32</h>
+      <x>259</x>
+      <y>413</y>
+      <w>301</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=.
 </panel_attributes>
-    <additional_attributes>10.0;20.0;390.0;20.0</additional_attributes>
+    <additional_attributes>10.0;20.0;410.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>208</x>
-      <y>456</y>
-      <w>112</w>
-      <h>24</h>
+      <x>336</x>
+      <y>427</y>
+      <w>98</w>
+      <h>21</h>
     </coordinates>
     <panel_attributes>[分享到第三方平台]</panel_attributes>
     <additional_attributes/>
@@ -292,10 +292,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>424</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>399</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 分享成功信息</panel_attributes>
@@ -304,10 +304,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>320</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>308</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 无好友错误提示</panel_attributes>
@@ -316,13 +316,57 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
-      <y>528</y>
-      <w>200</w>
-      <h>32</h>
+      <x>329</x>
+      <y>490</y>
+      <w>175</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 无权限错误提示</panel_attributes>
     <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>336</x>
+      <y>126</y>
+      <w>84</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>[取消分享]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>336</x>
+      <y>245</y>
+      <w>84</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>[分享给好友]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>336</x>
+      <y>287</y>
+      <w>98</w>
+      <h>14</h>
+    </coordinates>
+    <panel_attributes>[消费者当前无好友]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>336</x>
+      <y>469</y>
+      <w>140</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>[系统无打开其他应用的权限]</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>

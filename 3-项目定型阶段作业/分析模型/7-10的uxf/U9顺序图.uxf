@@ -140,12 +140,12 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>189</x>
+      <x>180</x>
       <y>333</y>
-      <w>306</w>
+      <w>315</w>
       <h>108</h>
     </coordinates>
-    <panel_attributes>loop[点评字数超过140字]</panel_attributes>
+    <panel_attributes>loop</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -171,5 +171,16 @@
     <panel_attributes>lt=&lt;-
 重新编写点评</panel_attributes>
     <additional_attributes>230.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>243</x>
+      <y>333</y>
+      <w>135</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>[点评字数超过140字]</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
