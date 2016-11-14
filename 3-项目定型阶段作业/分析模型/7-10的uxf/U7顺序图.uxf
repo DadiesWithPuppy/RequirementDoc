@@ -40,7 +40,7 @@
       <x>256</x>
       <y>88</y>
       <w>16</w>
-      <h>544</h>
+      <h>560</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -51,7 +51,7 @@
       <x>448</x>
       <y>88</y>
       <w>16</w>
-      <h>544</h>
+      <h>560</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -86,7 +86,7 @@
       <x>208</x>
       <y>248</y>
       <w>304</w>
-      <h>360</h>
+      <h>368</h>
     </coordinates>
     <panel_attributes>alt[分享给好友]</panel_attributes>
     <additional_attributes/>
@@ -95,7 +95,7 @@
     <id>Relation</id>
     <coordinates>
       <x>264</x>
-      <y>328</y>
+      <y>264</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -107,7 +107,7 @@
     <id>Relation</id>
     <coordinates>
       <x>264</x>
-      <y>360</y>
+      <y>376</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -119,7 +119,7 @@
     <id>Relation</id>
     <coordinates>
       <x>264</x>
-      <y>384</y>
+      <y>400</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -131,7 +131,7 @@
     <id>Relation</id>
     <coordinates>
       <x>264</x>
-      <y>552</y>
+      <y>472</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -143,9 +143,9 @@
     <id>UMLFrame</id>
     <coordinates>
       <x>240</x>
-      <y>272</y>
+      <y>296</y>
       <w>240</w>
-      <h>48</h>
+      <h>80</h>
     </coordinates>
     <panel_attributes>break  [消费者当前无好友]</panel_attributes>
     <additional_attributes/>
@@ -154,9 +154,9 @@
     <id>UMLFrame</id>
     <coordinates>
       <x>240</x>
-      <y>488</y>
+      <y>504</y>
       <w>240</w>
-      <h>56</h>
+      <h>80</h>
     </coordinates>
     <panel_attributes>break  [系统无打开其他应用的权限]</panel_attributes>
     <additional_attributes/>
@@ -165,7 +165,7 @@
     <id>Relation</id>
     <coordinates>
       <x>264</x>
-      <y>288</y>
+      <y>344</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -177,7 +177,7 @@
     <id>Relation</id>
     <coordinates>
       <x>264</x>
-      <y>576</y>
+      <y>584</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -189,7 +189,7 @@
     <id>Relation</id>
     <coordinates>
       <x>264</x>
-      <y>512</y>
+      <y>552</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
@@ -201,23 +201,23 @@
     <id>Relation</id>
     <coordinates>
       <x>256</x>
-      <y>624</y>
+      <y>640</y>
       <w>24</w>
-      <h>88</h>
+      <h>72</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>448</x>
-      <y>624</y>
+      <y>640</y>
       <w>24</w>
-      <h>80</h>
+      <h>64</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
@@ -236,7 +236,7 @@
       <x>168</x>
       <y>96</y>
       <w>384</w>
-      <h>528</h>
+      <h>544</h>
     </coordinates>
     <panel_attributes>par
 </panel_attributes>
@@ -270,7 +270,7 @@
     <id>Relation</id>
     <coordinates>
       <x>200</x>
-      <y>432</y>
+      <y>440</y>
       <w>328</w>
       <h>32</h>
     </coordinates>
@@ -293,12 +293,36 @@
     <id>Relation</id>
     <coordinates>
       <x>264</x>
-      <y>408</y>
+      <y>424</y>
       <w>200</w>
       <h>32</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 分享成功信息</panel_attributes>
+    <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>264</x>
+      <y>320</y>
+      <w>200</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+无好友错误提示</panel_attributes>
+    <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>264</x>
+      <y>528</y>
+      <w>200</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+无权限错误提示</panel_attributes>
     <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
   </element>
 </diagram>

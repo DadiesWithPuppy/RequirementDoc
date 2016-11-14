@@ -49,7 +49,7 @@
     <id>Relation</id>
     <coordinates>
       <x>234</x>
-      <y>243</y>
+      <y>225</y>
       <w>225</w>
       <h>36</h>
     </coordinates>
@@ -61,7 +61,7 @@
     <id>Relation</id>
     <coordinates>
       <x>234</x>
-      <y>270</y>
+      <y>261</y>
       <w>225</w>
       <h>36</h>
     </coordinates>
@@ -73,7 +73,7 @@
     <id>Relation</id>
     <coordinates>
       <x>234</x>
-      <y>306</y>
+      <y>297</y>
       <w>225</w>
       <h>36</h>
     </coordinates>
@@ -85,7 +85,7 @@
     <id>Relation</id>
     <coordinates>
       <x>234</x>
-      <y>459</y>
+      <y>450</y>
       <w>225</w>
       <h>36</h>
     </coordinates>
@@ -140,24 +140,24 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>198</x>
-      <y>342</y>
-      <w>297</w>
-      <h>117</h>
+      <x>189</x>
+      <y>333</y>
+      <w>306</w>
+      <h>108</h>
     </coordinates>
-    <panel_attributes>break[点评字数超过140字]</panel_attributes>
+    <panel_attributes>loop[点评字数超过140字]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>234</x>
-      <y>369</y>
+      <y>360</y>
       <w>225</w>
       <h>36</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-重新输入提示</panel_attributes>
+字数过多提示</panel_attributes>
     <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
   </element>
   <element>
@@ -171,17 +171,5 @@
     <panel_attributes>lt=&lt;-
 重新编写点评</panel_attributes>
     <additional_attributes>230.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>234</x>
-      <y>423</y>
-      <w>225</w>
-      <h>36</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;.
-成功提示信息</panel_attributes>
-    <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
   </element>
 </diagram>

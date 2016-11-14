@@ -73,7 +73,7 @@
     <id>Relation</id>
     <coordinates>
       <x>234</x>
-      <y>369</y>
+      <y>297</y>
       <w>225</w>
       <h>36</h>
     </coordinates>
@@ -85,21 +85,21 @@
     <id>Relation</id>
     <coordinates>
       <x>234</x>
-      <y>396</y>
+      <y>360</y>
       <w>225</w>
       <h>36</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-点评信息</panel_attributes>
+无点评信息提示</panel_attributes>
     <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
       <x>207</x>
-      <y>297</y>
+      <y>333</y>
       <w>270</w>
-      <h>63</h>
+      <h>99</h>
     </coordinates>
     <panel_attributes>break  [无该菜品点评信息]</panel_attributes>
     <additional_attributes/>
@@ -108,7 +108,7 @@
     <id>Relation</id>
     <coordinates>
       <x>234</x>
-      <y>324</y>
+      <y>387</y>
       <w>225</w>
       <h>36</h>
     </coordinates>
@@ -159,5 +159,17 @@
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>234</x>
+      <y>441</y>
+      <w>225</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+点评信息</panel_attributes>
+    <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
   </element>
 </diagram>

@@ -5,7 +5,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>220</x>
-      <y>220</y>
+      <y>250</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -18,11 +18,11 @@
     <id>UMLClass</id>
     <coordinates>
       <x>0</x>
-      <y>310</y>
+      <y>340</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
-    <panel_attributes>菜品概要信息
+    <panel_attributes>菜品列表
 --
 - 菜品基本信息
 - 对应窗口位置
@@ -33,7 +33,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>0</x>
-      <y>440</y>
+      <y>470</y>
       <w>130</w>
       <h>100</h>
     </coordinates>
@@ -49,7 +49,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>650</x>
-      <y>130</y>
+      <y>160</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -62,7 +62,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>650</x>
-      <y>530</y>
+      <y>560</y>
       <w>130</w>
       <h>80</h>
     </coordinates>
@@ -77,11 +77,11 @@
     <id>UMLClass</id>
     <coordinates>
       <x>650</x>
-      <y>400</y>
+      <y>430</y>
       <w>130</w>
       <h>80</h>
     </coordinates>
-    <panel_attributes>窗口概要信息
+    <panel_attributes>窗口列表
 --
 - 菜系
 - 口味
@@ -92,7 +92,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>440</x>
-      <y>300</y>
+      <y>330</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -107,7 +107,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>650</x>
-      <y>260</y>
+      <y>290</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -120,7 +120,7 @@
     <id>Relation</id>
     <coordinates>
       <x>340</x>
-      <y>250</y>
+      <y>280</y>
       <w>120</w>
       <h>90</h>
     </coordinates>
@@ -132,7 +132,7 @@
     <id>Relation</id>
     <coordinates>
       <x>560</x>
-      <y>160</y>
+      <y>190</y>
       <w>110</w>
       <h>170</h>
     </coordinates>
@@ -144,7 +144,7 @@
     <id>Relation</id>
     <coordinates>
       <x>560</x>
-      <y>330</y>
+      <y>360</y>
       <w>110</w>
       <h>100</h>
     </coordinates>
@@ -156,7 +156,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>220</x>
-      <y>370</y>
+      <y>400</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -170,7 +170,7 @@
     <id>Relation</id>
     <coordinates>
       <x>340</x>
-      <y>330</y>
+      <y>360</y>
       <w>120</w>
       <h>100</h>
     </coordinates>
@@ -182,7 +182,7 @@
     <id>Relation</id>
     <coordinates>
       <x>120</x>
-      <y>340</y>
+      <y>370</y>
       <w>120</w>
       <h>90</h>
     </coordinates>
@@ -194,7 +194,7 @@
     <id>Relation</id>
     <coordinates>
       <x>120</x>
-      <y>250</y>
+      <y>280</y>
       <w>120</w>
       <h>100</h>
     </coordinates>
@@ -206,7 +206,7 @@
     <id>Relation</id>
     <coordinates>
       <x>50</x>
-      <y>370</y>
+      <y>400</y>
       <w>30</w>
       <h>90</h>
     </coordinates>
@@ -217,7 +217,7 @@
     <id>Relation</id>
     <coordinates>
       <x>700</x>
-      <y>470</y>
+      <y>500</y>
       <w>30</w>
       <h>80</h>
     </coordinates>
@@ -228,7 +228,7 @@
     <id>Relation</id>
     <coordinates>
       <x>700</x>
-      <y>190</y>
+      <y>220</y>
       <w>30</w>
       <h>90</h>
     </coordinates>
