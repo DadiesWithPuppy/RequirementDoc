@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="13.3">
-  <zoom_level>8</zoom_level>
+  <zoom_level>6</zoom_level>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>320</y>
-      <w>216</w>
-      <h>32</h>
+      <x>114</x>
+      <y>240</y>
+      <w>162</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 该记录详细信息</panel_attributes>
@@ -16,10 +16,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>512</y>
-      <w>216</w>
-      <h>32</h>
+      <x>114</x>
+      <y>384</y>
+      <w>162</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 查看消费分析报表</panel_attributes>
@@ -28,10 +28,10 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>32</x>
-      <y>128</y>
-      <w>440</w>
-      <h>696</h>
+      <x>30</x>
+      <y>96</y>
+      <w>330</w>
+      <h>522</h>
     </coordinates>
     <panel_attributes>par</panel_attributes>
     <additional_attributes/>
@@ -40,9 +40,9 @@
     <id>Relation</id>
     <coordinates>
       <x>24</x>
-      <y>200</y>
-      <w>464</w>
-      <h>24</h>
+      <y>150</y>
+      <w>348</w>
+      <h>18</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;560.0;10.0</additional_attributes>
@@ -50,10 +50,10 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>0</x>
+      <x>6</x>
       <y>0</y>
-      <w>504</w>
-      <h>864</h>
+      <w>378</w>
+      <h>648</h>
     </coordinates>
     <panel_attributes>sd UC-5
 </panel_attributes>
@@ -62,10 +62,10 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>648</x>
-      <y>128</y>
-      <w>56</w>
-      <h>80</h>
+      <x>492</x>
+      <y>96</y>
+      <w>42</w>
+      <h>60</h>
     </coordinates>
     <panel_attributes>消费者</panel_attributes>
     <additional_attributes/>
@@ -73,10 +73,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>304</x>
-      <y>56</y>
-      <w>96</w>
-      <h>48</h>
+      <x>234</x>
+      <y>42</y>
+      <w>72</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>系统</panel_attributes>
     <additional_attributes/>
@@ -84,10 +84,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>344</x>
-      <y>96</y>
-      <w>24</w>
-      <h>40</h>
+      <x>264</x>
+      <y>72</y>
+      <w>18</w>
+      <h>30</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;30.0</additional_attributes>
@@ -95,10 +95,10 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>344</x>
-      <y>120</y>
-      <w>16</w>
-      <h>728</h>
+      <x>264</x>
+      <y>90</y>
+      <w>12</w>
+      <h>546</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -106,10 +106,10 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>136</x>
-      <y>120</y>
-      <w>16</w>
-      <h>728</h>
+      <x>108</x>
+      <y>90</y>
+      <w>12</w>
+      <h>546</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -117,10 +117,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>136</x>
-      <y>840</y>
-      <w>24</w>
-      <h>88</h>
+      <x>108</x>
+      <y>630</y>
+      <w>18</w>
+      <h>66</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
@@ -128,10 +128,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>344</x>
-      <y>840</y>
-      <w>24</w>
-      <h>88</h>
+      <x>264</x>
+      <y>630</y>
+      <w>18</w>
+      <h>66</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
@@ -139,10 +139,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>160</y>
-      <w>216</w>
-      <h>32</h>
+      <x>114</x>
+      <y>120</y>
+      <w>162</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 取消查看分析</panel_attributes>
@@ -151,10 +151,10 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>80</x>
-      <y>144</y>
-      <w>328</w>
-      <h>56</h>
+      <x>66</x>
+      <y>108</y>
+      <w>246</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>break[取消查看分析]</panel_attributes>
     <additional_attributes/>
@@ -162,10 +162,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>208</y>
-      <w>216</w>
-      <h>32</h>
+      <x>114</x>
+      <y>156</y>
+      <w>162</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 查看消费历史分析</panel_attributes>
@@ -174,10 +174,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>264</y>
-      <w>216</w>
-      <h>32</h>
+      <x>114</x>
+      <y>198</y>
+      <w>162</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 所有消费记录</panel_attributes>
@@ -186,10 +186,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>544</y>
-      <w>216</w>
-      <h>32</h>
+      <x>114</x>
+      <y>408</y>
+      <w>162</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 上月的消费分析报表</panel_attributes>
@@ -198,10 +198,10 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>40</x>
-      <y>232</y>
-      <w>424</w>
-      <h>552</h>
+      <x>36</x>
+      <y>174</y>
+      <w>318</w>
+      <h>414</h>
     </coordinates>
     <panel_attributes>alt</panel_attributes>
     <additional_attributes/>
@@ -209,10 +209,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>240</y>
-      <w>216</w>
-      <h>32</h>
+      <x>114</x>
+      <y>180</y>
+      <w>162</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 查看消费记录</panel_attributes>
@@ -222,9 +222,9 @@
     <id>Relation</id>
     <coordinates>
       <x>24</x>
-      <y>488</y>
-      <w>448</w>
-      <h>24</h>
+      <y>366</y>
+      <w>336</w>
+      <h>18</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;540.0;10.0</additional_attributes>
@@ -232,10 +232,10 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>80</x>
-      <y>288</y>
-      <w>328</w>
-      <h>64</h>
+      <x>66</x>
+      <y>216</y>
+      <w>246</w>
+      <h>48</h>
     </coordinates>
     <panel_attributes>opt[用户选择查看某一条消费记录]</panel_attributes>
     <additional_attributes/>
@@ -243,10 +243,10 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>576</x>
-      <y>112</y>
-      <w>408</w>
-      <h>632</h>
+      <x>438</x>
+      <y>84</y>
+      <w>306</w>
+      <h>534</h>
     </coordinates>
     <panel_attributes>sd 搜索</panel_attributes>
     <additional_attributes/>
@@ -254,10 +254,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>272</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>204</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 选择进行时间筛选</panel_attributes>
@@ -266,10 +266,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>296</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>222</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 输入提示</panel_attributes>
@@ -278,10 +278,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>320</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>240</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 输入时间信息</panel_attributes>
@@ -290,10 +290,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>344</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>258</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 筛选结果</panel_attributes>
@@ -302,10 +302,10 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>80</x>
-      <y>584</y>
-      <w>328</w>
-      <h>160</h>
+      <x>66</x>
+      <y>438</y>
+      <w>246</w>
+      <h>120</h>
     </coordinates>
     <panel_attributes>opt查看特定月份消费分析报表</panel_attributes>
     <additional_attributes/>
@@ -313,10 +313,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>608</y>
-      <w>216</w>
-      <h>40</h>
+      <x>114</x>
+      <y>456</y>
+      <w>162</w>
+      <h>30</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 输入年份以及月份
@@ -326,10 +326,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>704</y>
-      <w>216</w>
-      <h>40</h>
+      <x>114</x>
+      <y>528</y>
+      <w>162</w>
+      <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 该月份消费分析报表
@@ -339,10 +339,10 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>96</x>
-      <y>640</y>
-      <w>296</w>
-      <h>56</h>
+      <x>78</x>
+      <y>480</y>
+      <w>222</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>break[该月份没有消费记录]</panel_attributes>
     <additional_attributes/>
@@ -350,10 +350,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>664</y>
-      <w>216</w>
-      <h>40</h>
+      <x>114</x>
+      <y>498</y>
+      <w>162</w>
+      <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 错误提示
@@ -363,10 +363,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>304</y>
-      <w>216</w>
-      <h>32</h>
+      <x>114</x>
+      <y>228</y>
+      <w>162</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 某条消费记录</panel_attributes>
@@ -375,10 +375,10 @@
   <element>
     <id>Text</id>
     <coordinates>
-      <x>64</x>
-      <y>232</y>
-      <w>88</w>
-      <h>24</h>
+      <x>54</x>
+      <y>174</y>
+      <w>66</w>
+      <h>18</h>
     </coordinates>
     <panel_attributes>[查看消费类型]</panel_attributes>
     <additional_attributes/>
@@ -386,10 +386,10 @@
   <element>
     <id>Text</id>
     <coordinates>
-      <x>48</x>
-      <y>504</y>
-      <w>88</w>
-      <h>24</h>
+      <x>42</x>
+      <y>378</y>
+      <w>66</w>
+      <h>18</h>
     </coordinates>
     <panel_attributes>[现无消费计划]</panel_attributes>
     <additional_attributes/>
@@ -397,34 +397,34 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>384</y>
-      <w>168</w>
-      <h>32</h>
+      <x>114</x>
+      <y>288</y>
+      <w>126</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
-输入筛选信息</panel_attributes>
+进行筛选查看</panel_attributes>
     <additional_attributes>10.0;20.0;190.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>144</x>
-      <y>408</y>
-      <w>160</w>
-      <h>32</h>
+      <x>114</x>
+      <y>306</y>
+      <w>120</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-筛选结果</panel_attributes>
+综合筛选结果</panel_attributes>
     <additional_attributes>10.0;20.0;180.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>296</x>
-      <y>384</y>
-      <w>136</w>
-      <h>64</h>
+      <x>228</x>
+      <y>288</y>
+      <w>102</w>
+      <h>48</h>
     </coordinates>
     <panel_attributes>ref </panel_attributes>
     <additional_attributes/>
@@ -432,10 +432,10 @@
   <element>
     <id>Text</id>
     <coordinates>
-      <x>296</x>
-      <y>408</y>
-      <w>144</w>
-      <h>32</h>
+      <x>228</x>
+      <y>306</y>
+      <w>108</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>搜索(用户,系统):筛选结果</panel_attributes>
     <additional_attributes/>
@@ -443,10 +443,10 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>592</x>
-      <y>240</y>
-      <w>376</w>
-      <h>480</h>
+      <x>450</x>
+      <y>198</y>
+      <w>282</w>
+      <h>342</h>
     </coordinates>
     <panel_attributes>par</panel_attributes>
     <additional_attributes/>
@@ -454,10 +454,10 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>112</x>
-      <y>32</y>
-      <w>56</w>
-      <h>80</h>
+      <x>90</x>
+      <y>24</y>
+      <w>42</w>
+      <h>60</h>
     </coordinates>
     <panel_attributes>消费者</panel_attributes>
     <additional_attributes/>
@@ -465,10 +465,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>840</x>
-      <y>144</y>
-      <w>96</w>
-      <h>48</h>
+      <x>636</x>
+      <y>108</y>
+      <w>72</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>系统</panel_attributes>
     <additional_attributes/>
@@ -476,10 +476,10 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>664</x>
-      <y>232</y>
-      <w>16</w>
-      <h>504</h>
+      <x>504</x>
+      <y>174</y>
+      <w>12</w>
+      <h>396</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -487,10 +487,10 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>880</x>
-      <y>232</y>
-      <w>16</w>
-      <h>504</h>
+      <x>666</x>
+      <y>174</y>
+      <w>12</w>
+      <h>396</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -498,10 +498,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>880</x>
-      <y>184</y>
-      <w>24</w>
-      <h>64</h>
+      <x>666</x>
+      <y>138</y>
+      <w>18</w>
+      <h>48</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
@@ -509,10 +509,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>664</x>
-      <y>184</y>
-      <w>24</w>
-      <h>64</h>
+      <x>504</x>
+      <y>138</y>
+      <w>18</w>
+      <h>48</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
@@ -520,10 +520,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>584</x>
-      <y>376</y>
-      <w>400</w>
-      <h>24</h>
+      <x>444</x>
+      <y>282</y>
+      <w>300</w>
+      <h>18</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;480.0;10.0</additional_attributes>
@@ -531,10 +531,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>392</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>294</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 选择进行金额筛选</panel_attributes>
@@ -543,10 +543,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>416</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>312</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 输入提示</panel_attributes>
@@ -555,10 +555,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>440</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>330</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 输入金额信息</panel_attributes>
@@ -567,10 +567,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>464</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>348</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 筛选结果</panel_attributes>
@@ -579,10 +579,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>584</x>
-      <y>488</y>
-      <w>400</w>
-      <h>24</h>
+      <x>444</x>
+      <y>366</y>
+      <w>300</w>
+      <h>18</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;480.0;10.0</additional_attributes>
@@ -590,10 +590,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>504</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>378</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 选择进行窗口筛选</panel_attributes>
@@ -602,10 +602,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>528</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>396</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 输入提示</panel_attributes>
@@ -614,10 +614,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>552</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>414</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 输入窗口信息</panel_attributes>
@@ -626,10 +626,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>576</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>432</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 筛选结果</panel_attributes>
@@ -638,10 +638,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>584</x>
-      <y>600</y>
-      <w>400</w>
-      <h>24</h>
+      <x>444</x>
+      <y>450</y>
+      <w>300</w>
+      <h>18</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;480.0;10.0</additional_attributes>
@@ -649,10 +649,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>616</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>462</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 选择进行关键字筛选</panel_attributes>
@@ -661,10 +661,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>640</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>480</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 输入提示</panel_attributes>
@@ -673,10 +673,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>664</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>498</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;&gt;
 输入关键字信息</panel_attributes>
@@ -685,13 +685,37 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>672</x>
-      <y>688</y>
-      <w>224</w>
-      <h>32</h>
+      <x>510</x>
+      <y>516</y>
+      <w>168</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 筛选结果</panel_attributes>
+    <additional_attributes>10.0;20.0;260.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>510</x>
+      <y>174</y>
+      <w>168</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;&gt;
+进行筛选查看</panel_attributes>
+    <additional_attributes>10.0;20.0;260.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>510</x>
+      <y>546</y>
+      <w>168</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+综合筛选结果</panel_attributes>
     <additional_attributes>10.0;20.0;260.0;20.0</additional_attributes>
   </element>
 </diagram>

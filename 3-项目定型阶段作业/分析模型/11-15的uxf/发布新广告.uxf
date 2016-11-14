@@ -22,7 +22,7 @@
       <h>32</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-提示录入广告信息</panel_attributes>
+录入提示</panel_attributes>
     <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
@@ -226,7 +226,7 @@
       <w>328</w>
       <h>56</h>
     </coordinates>
-    <panel_attributes>loop[图片太大]</panel_attributes>
+    <panel_attributes>loop[图片大小超上限]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
