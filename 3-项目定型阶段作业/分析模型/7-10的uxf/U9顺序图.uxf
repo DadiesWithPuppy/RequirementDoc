@@ -4,7 +4,7 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>207</x>
+      <x>216</x>
       <y>81</y>
       <w>54</w>
       <h>90</h>
@@ -15,7 +15,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>405</x>
+      <x>414</x>
       <y>135</y>
       <w>90</w>
       <h>27</h>
@@ -26,7 +26,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>225</x>
+      <x>234</x>
       <y>207</y>
       <w>18</w>
       <h>279</h>
@@ -37,7 +37,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>441</x>
+      <x>450</x>
       <y>207</y>
       <w>18</w>
       <h>279</h>
@@ -48,19 +48,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>234</x>
+      <x>243</x>
       <y>225</y>
       <w>225</w>
       <h>36</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
+    <panel_attributes>lt=&lt;&lt;&lt;-
 查看菜品信息</panel_attributes>
     <additional_attributes>230.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>234</x>
+      <x>243</x>
       <y>261</y>
       <w>225</w>
       <h>36</h>
@@ -72,19 +72,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>234</x>
+      <x>243</x>
       <y>297</y>
       <w>225</w>
       <h>36</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
+    <panel_attributes>lt=&lt;&lt;&lt;-
 输入点评信息</panel_attributes>
     <additional_attributes>230.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>234</x>
+      <x>243</x>
       <y>450</y>
       <w>225</w>
       <h>36</h>
@@ -96,7 +96,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>225</x>
+      <x>234</x>
       <y>162</y>
       <w>27</w>
       <h>63</h>
@@ -107,7 +107,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>441</x>
+      <x>450</x>
       <y>162</y>
       <w>27</w>
       <h>63</h>
@@ -118,7 +118,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>225</x>
+      <x>234</x>
       <y>477</y>
       <w>27</w>
       <h>63</h>
@@ -129,7 +129,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>441</x>
+      <x>450</x>
       <y>477</y>
       <w>27</w>
       <h>63</h>
@@ -140,7 +140,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>180</x>
+      <x>189</x>
       <y>333</y>
       <w>315</w>
       <h>108</h>
@@ -151,7 +151,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>234</x>
+      <x>243</x>
       <y>360</y>
       <w>225</w>
       <h>36</h>
@@ -163,19 +163,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>234</x>
+      <x>243</x>
       <y>396</y>
       <w>225</w>
       <h>36</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
+    <panel_attributes>lt=&lt;&lt;&lt;-
 重新编写点评</panel_attributes>
     <additional_attributes>230.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>243</x>
+      <x>252</x>
       <y>333</y>
       <w>135</w>
       <h>27</h>
