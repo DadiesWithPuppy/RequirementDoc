@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="13.3">
-  <zoom_level>10</zoom_level>
+  <zoom_level>7</zoom_level>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>10</x>
-      <y>50</y>
-      <w>100</w>
-      <h>100</h>
+      <x>168</x>
+      <y>126</y>
+      <w>70</w>
+      <h>70</h>
     </coordinates>
     <panel_attributes>消费者
 --
@@ -20,10 +20,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>300</x>
-      <y>70</y>
-      <w>100</w>
-      <h>60</h>
+      <x>371</x>
+      <y>140</y>
+      <w>70</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>点评
 --
@@ -34,10 +34,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>10</x>
-      <y>360</y>
-      <w>100</w>
-      <h>60</h>
+      <x>168</x>
+      <y>343</y>
+      <w>70</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>好友
 --
@@ -48,10 +48,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>100</x>
-      <y>80</y>
-      <w>220</w>
-      <h>40</h>
+      <x>231</x>
+      <y>147</y>
+      <w>154</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>1        分享、添加、评价      *</panel_attributes>
     <additional_attributes>200.0;20.0;10.0;20.0</additional_attributes>
@@ -59,10 +59,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>290</x>
-      <y>360</y>
-      <w>100</w>
-      <h>60</h>
+      <x>364</x>
+      <y>343</y>
+      <w>70</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>好友列表
 --
@@ -73,10 +73,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>50</x>
-      <y>140</y>
-      <w>60</w>
-      <h>240</h>
+      <x>196</x>
+      <y>189</y>
+      <w>42</w>
+      <h>168</h>
     </coordinates>
     <panel_attributes>选择</panel_attributes>
     <additional_attributes>10.0;220.0;10.0;10.0</additional_attributes>
@@ -84,10 +84,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>100</x>
-      <y>370</y>
-      <w>210</w>
-      <h>40</h>
+      <x>231</x>
+      <y>350</y>
+      <w>147</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;-
 *        被...包含        1</panel_attributes>
@@ -96,10 +96,10 @@
   <element>
     <id>Text</id>
     <coordinates>
-      <x>60</x>
-      <y>340</y>
-      <w>100</w>
-      <h>70</h>
+      <x>203</x>
+      <y>329</y>
+      <w>70</w>
+      <h>49</h>
     </coordinates>
     <panel_attributes>1</panel_attributes>
     <additional_attributes/>
@@ -107,10 +107,10 @@
   <element>
     <id>Text</id>
     <coordinates>
-      <x>350</x>
-      <y>190</y>
-      <w>100</w>
-      <h>70</h>
+      <x>406</x>
+      <y>224</y>
+      <w>70</w>
+      <h>49</h>
     </coordinates>
     <panel_attributes>1</panel_attributes>
     <additional_attributes/>
@@ -118,10 +118,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>100</x>
-      <y>120</y>
-      <w>220</w>
-      <h>150</h>
+      <x>231</x>
+      <y>175</y>
+      <w>154</w>
+      <h>105</h>
     </coordinates>
     <panel_attributes>查看</panel_attributes>
     <additional_attributes>10.0;10.0;200.0;130.0</additional_attributes>
@@ -129,10 +129,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>300</x>
-      <y>220</y>
-      <w>100</w>
-      <h>60</h>
+      <x>371</x>
+      <y>245</y>
+      <w>70</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>菜品
 --
@@ -143,10 +143,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
-      <y>120</y>
-      <w>80</w>
-      <h>120</h>
+      <x>399</x>
+      <y>175</y>
+      <w>56</w>
+      <h>84</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;-
 被...包含</panel_attributes>
@@ -155,10 +155,10 @@
   <element>
     <id>Text</id>
     <coordinates>
-      <x>60</x>
-      <y>150</y>
-      <w>100</w>
-      <h>50</h>
+      <x>203</x>
+      <y>196</y>
+      <w>70</w>
+      <h>35</h>
     </coordinates>
     <panel_attributes>1</panel_attributes>
     <additional_attributes/>
@@ -166,10 +166,10 @@
   <element>
     <id>Text</id>
     <coordinates>
-      <x>230</x>
-      <y>210</y>
-      <w>100</w>
-      <h>70</h>
+      <x>322</x>
+      <y>238</y>
+      <w>70</w>
+      <h>49</h>
     </coordinates>
     <panel_attributes>*</panel_attributes>
     <additional_attributes/>
@@ -177,10 +177,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>540</x>
-      <y>70</y>
-      <w>100</w>
-      <h>60</h>
+      <x>539</x>
+      <y>140</y>
+      <w>70</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>评价
 --
@@ -191,10 +191,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>390</x>
-      <y>80</y>
-      <w>170</w>
-      <h>40</h>
+      <x>434</x>
+      <y>147</y>
+      <w>119</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;-
 1      包含      *</panel_attributes>
@@ -203,10 +203,10 @@
   <element>
     <id>Text</id>
     <coordinates>
-      <x>110</x>
-      <y>120</y>
-      <w>100</w>
-      <h>70</h>
+      <x>238</x>
+      <y>175</y>
+      <w>70</w>
+      <h>49</h>
     </coordinates>
     <panel_attributes>1</panel_attributes>
     <additional_attributes/>
@@ -214,10 +214,10 @@
   <element>
     <id>Text</id>
     <coordinates>
-      <x>350</x>
-      <y>130</y>
-      <w>100</w>
-      <h>70</h>
+      <x>406</x>
+      <y>182</y>
+      <w>70</w>
+      <h>49</h>
     </coordinates>
     <panel_attributes>*</panel_attributes>
     <additional_attributes/>
