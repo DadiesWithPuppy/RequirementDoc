@@ -199,7 +199,8 @@
       <w>161</w>
       <h>28</h>
     </coordinates>
-    <panel_attributes>录入销售信息</panel_attributes>
+    <panel_attributes>lt=-&gt;&gt;&gt;
+录入销售信息</panel_attributes>
     <additional_attributes>10.0;20.0;210.0;20.0</additional_attributes>
   </element>
   <element>
@@ -210,7 +211,8 @@
       <w>112</w>
       <h>28</h>
     </coordinates>
-    <panel_attributes>创建</panel_attributes>
+    <panel_attributes>lt=-&gt;&gt;&gt;
+创建</panel_attributes>
     <additional_attributes>10.0;20.0;140.0;20.0</additional_attributes>
   </element>
   <element>
