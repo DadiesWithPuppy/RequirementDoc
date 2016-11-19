@@ -5,7 +5,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>220</x>
-      <y>250</y>
+      <y>220</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -18,7 +18,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>0</x>
-      <y>340</y>
+      <y>310</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -33,9 +33,9 @@
     <id>UMLClass</id>
     <coordinates>
       <x>0</x>
-      <y>470</y>
+      <y>460</y>
       <w>130</w>
-      <h>100</h>
+      <h>90</h>
     </coordinates>
     <panel_attributes>菜品描述
 --
@@ -49,22 +49,23 @@
     <id>UMLClass</id>
     <coordinates>
       <x>650</x>
-      <y>160</y>
+      <y>130</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
     <panel_attributes>广告列表
 --
-- 广告名</panel_attributes>
+- 广告名
+</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
       <x>650</x>
-      <y>560</y>
+      <y>570</y>
       <w>130</w>
-      <h>80</h>
+      <h>60</h>
     </coordinates>
     <panel_attributes>窗口详细描述
 --
@@ -77,7 +78,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>650</x>
-      <y>430</y>
+      <y>400</y>
       <w>130</w>
       <h>80</h>
     </coordinates>
@@ -92,7 +93,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>440</x>
-      <y>330</y>
+      <y>300</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -107,7 +108,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>650</x>
-      <y>290</y>
+      <y>270</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -120,43 +121,43 @@
     <id>Relation</id>
     <coordinates>
       <x>340</x>
-      <y>280</y>
+      <y>250</y>
       <w>120</w>
       <h>90</h>
     </coordinates>
     <panel_attributes>lt=-
-发起</panel_attributes>
+</panel_attributes>
     <additional_attributes>10.0;10.0;100.0;70.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>560</x>
-      <y>190</y>
+      <y>160</y>
       <w>110</w>
       <h>170</h>
     </coordinates>
     <panel_attributes>lt=-
-查看</panel_attributes>
+</panel_attributes>
     <additional_attributes>10.0;150.0;90.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>560</x>
-      <y>360</y>
+      <y>330</y>
       <w>110</w>
       <h>100</h>
     </coordinates>
     <panel_attributes>lt=-
-查看推荐</panel_attributes>
+</panel_attributes>
     <additional_attributes>10.0;10.0;90.0;80.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
       <x>220</x>
-      <y>400</y>
+      <y>370</y>
       <w>130</w>
       <h>70</h>
     </coordinates>
@@ -170,69 +171,300 @@
     <id>Relation</id>
     <coordinates>
       <x>340</x>
-      <y>360</y>
+      <y>330</y>
       <w>120</w>
       <h>100</h>
     </coordinates>
     <panel_attributes>lt=-
-发起</panel_attributes>
+</panel_attributes>
     <additional_attributes>10.0;80.0;100.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>120</x>
-      <y>370</y>
+      <y>340</y>
       <w>120</w>
       <h>90</h>
     </coordinates>
     <panel_attributes>lt=-
-包含</panel_attributes>
+</panel_attributes>
     <additional_attributes>10.0;10.0;100.0;70.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>120</x>
-      <y>280</y>
+      <y>250</y>
       <w>120</w>
       <h>100</h>
     </coordinates>
     <panel_attributes>lt=-
-包含</panel_attributes>
+</panel_attributes>
     <additional_attributes>10.0;80.0;100.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>50</x>
+      <y>370</y>
+      <w>80</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-
+被...包含</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>700</x>
+      <y>470</y>
+      <w>80</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-
+被...包含</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>700</x>
+      <y>190</y>
+      <w>80</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-
+被...包含</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>130</x>
+      <y>360</y>
+      <w>110</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>1 
+结果
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>60</x>
+      <y>440</y>
+      <w>30</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>*
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>60</x>
       <y>400</y>
-      <w>30</w>
+      <w>110</w>
       <h>90</h>
     </coordinates>
-    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
+    <panel_attributes>*
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
   </element>
   <element>
-    <id>Relation</id>
+    <id>Text</id>
     <coordinates>
-      <x>700</x>
-      <y>500</y>
-      <w>30</w>
-      <h>80</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>700</x>
-      <y>220</y>
-      <w>30</w>
+      <x>190</x>
+      <y>400</y>
+      <w>110</w>
       <h>90</h>
     </coordinates>
-    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
+    <panel_attributes>1 
+产生
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>140</x>
+      <y>310</y>
+      <w>110</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>1 
+结果
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>190</x>
+      <y>270</y>
+      <w>110</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>1 
+产生
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>400</x>
+      <y>300</y>
+      <w>60</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>1 
+发起者
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>350</x>
+      <y>230</y>
+      <w>80</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>*
+被...发起
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>350</x>
+      <y>400</y>
+      <w>80</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>*
+被...发起
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>420</x>
+      <y>350</y>
+      <w>60</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>1 
+发起者
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>620</x>
+      <y>180</y>
+      <w>80</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>1
+结果
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>570</x>
+      <y>350</y>
+      <w>80</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>1
+查看
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>570</x>
+      <y>270</y>
+      <w>80</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>1
+查看
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>630</x>
+      <y>360</y>
+      <w>80</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>1
+结果
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>710</x>
+      <y>210</y>
+      <w>60</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>*
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>710</x>
+      <y>250</y>
+      <w>60</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>*
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>710</x>
+      <y>490</y>
+      <w>60</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>*
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>710</x>
+      <y>550</y>
+      <w>60</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>*
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
