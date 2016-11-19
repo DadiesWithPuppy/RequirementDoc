@@ -5,7 +5,7 @@
     <id>UMLActor</id>
     <coordinates>
       <x>250</x>
-      <y>60</y>
+      <y>30</y>
       <w>60</w>
       <h>100</h>
     </coordinates>
@@ -16,7 +16,7 @@
     <id>UMLFrame</id>
     <coordinates>
       <x>70</x>
-      <y>30</y>
+      <y>0</y>
       <w>680</w>
       <h>770</h>
     </coordinates>
@@ -27,7 +27,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>480</x>
-      <y>70</y>
+      <y>40</y>
       <w>120</w>
       <h>60</h>
     </coordinates>
@@ -38,7 +38,7 @@
     <id>UMLGeneric</id>
     <coordinates>
       <x>270</x>
-      <y>200</y>
+      <y>170</y>
       <w>20</w>
       <h>550</h>
     </coordinates>
@@ -49,7 +49,7 @@
     <id>Relation</id>
     <coordinates>
       <x>270</x>
-      <y>150</y>
+      <y>120</y>
       <w>30</w>
       <h>80</h>
     </coordinates>
@@ -60,7 +60,7 @@
     <id>UMLGeneric</id>
     <coordinates>
       <x>530</x>
-      <y>200</y>
+      <y>170</y>
       <w>20</w>
       <h>550</h>
     </coordinates>
@@ -71,7 +71,7 @@
     <id>Relation</id>
     <coordinates>
       <x>530</x>
-      <y>120</y>
+      <y>90</y>
       <w>30</w>
       <h>110</h>
     </coordinates>
@@ -82,7 +82,7 @@
     <id>Relation</id>
     <coordinates>
       <x>280</x>
-      <y>370</y>
+      <y>340</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
@@ -94,7 +94,7 @@
     <id>Relation</id>
     <coordinates>
       <x>280</x>
-      <y>500</y>
+      <y>470</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
@@ -106,7 +106,7 @@
     <id>Relation</id>
     <coordinates>
       <x>280</x>
-      <y>590</y>
+      <y>560</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
@@ -118,7 +118,7 @@
     <id>Relation</id>
     <coordinates>
       <x>280</x>
-      <y>640</y>
+      <y>610</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
@@ -130,7 +130,7 @@
     <id>UMLFrame</id>
     <coordinates>
       <x>130</x>
-      <y>540</y>
+      <y>510</y>
       <w>540</w>
       <h>180</h>
     </coordinates>
@@ -141,7 +141,7 @@
     <id>UMLFrame</id>
     <coordinates>
       <x>150</x>
-      <y>410</y>
+      <y>380</y>
       <w>520</w>
       <h>80</h>
     </coordinates>
@@ -152,7 +152,7 @@
     <id>Relation</id>
     <coordinates>
       <x>270</x>
-      <y>740</y>
+      <y>710</y>
       <w>30</w>
       <h>70</h>
     </coordinates>
@@ -163,18 +163,18 @@
     <id>UMLFrame</id>
     <coordinates>
       <x>180</x>
-      <y>590</y>
+      <y>560</y>
       <w>450</w>
       <h>110</h>
     </coordinates>
-    <panel_attributes>loop查看多个</panel_attributes>
+    <panel_attributes>loop还有下一个窗口</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLFrame</id>
     <coordinates>
       <x>100</x>
-      <y>210</y>
+      <y>180</y>
       <w>620</w>
       <h>530</h>
     </coordinates>
@@ -185,7 +185,7 @@
     <id>Relation</id>
     <coordinates>
       <x>280</x>
-      <y>440</y>
+      <y>410</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
@@ -197,7 +197,7 @@
     <id>Relation</id>
     <coordinates>
       <x>530</x>
-      <y>740</y>
+      <y>710</y>
       <w>30</w>
       <h>70</h>
     </coordinates>
@@ -208,7 +208,7 @@
     <id>Relation</id>
     <coordinates>
       <x>90</x>
-      <y>330</y>
+      <y>300</y>
       <w>650</w>
       <h>40</h>
     </coordinates>
@@ -220,7 +220,7 @@
     <id>UMLFrame</id>
     <coordinates>
       <x>150</x>
-      <y>240</y>
+      <y>210</y>
       <w>520</w>
       <h>80</h>
     </coordinates>
@@ -231,7 +231,7 @@
     <id>Relation</id>
     <coordinates>
       <x>280</x>
-      <y>260</y>
+      <y>230</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
