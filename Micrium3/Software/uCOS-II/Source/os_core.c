@@ -1737,23 +1737,23 @@ static  void  OS_SchedNew (void)
     y             = OSUnMapTbl[OSRdyGrp];
     OSPrioHighRdy = (INT8U)((y << 3u) + OSUnMapTbl[OSRdyTbl[y]]);
 
+	//只运行自己规定的几个高优先进程
+	if (OSPrioHighRdy == OS_LOWEST_PRIO || OSPrioHighRdy == OS_LOWEST_PRIO-1) {
+		return;
+	}
 
-	//当前进程是空闲，则无需调整
-	if (OSPrioHighRdy != OS_LOWEST_PRIO) {
-		//最高优先级的进程
-		OS_TCB * pointer = OSTCBPrioTbl[OSPrioHighRdy];
-		INT16U firstDDL = pointer->ddl;
+	//最高优先级的进程
+	INT16U firstDDL = 999;
 
-		//找出ddl最近的进程
-		pointer = OSTCBList;
-		while (pointer != (OS_TCB *)0) {
-			//就绪，DDL更短
-			if (pointer->OSTCBStat == OS_STAT_RDY && pointer->ddl>0 && pointer->ddl<firstDDL) {
-				OSPrioHighRdy = pointer->OSTCBPrio;
-				firstDDL = pointer->ddl;
-			}
-			pointer = pointer->OSTCBNext;
+	//找出ddl最近的进程
+	OS_TCB * pointer = OSTCBList;
+	while (pointer != (OS_TCB *)0) {
+		//就绪，DDL更短
+		if (pointer->OSTCBStat == OS_STAT_RDY && pointer->ddl>0 && pointer->ddl<firstDDL) {
+			OSPrioHighRdy = pointer->OSTCBPrio;
+			firstDDL = pointer->ddl;
 		}
+		pointer = pointer->OSTCBNext;
 	}
 
 
