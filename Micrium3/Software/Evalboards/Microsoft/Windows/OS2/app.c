@@ -47,6 +47,7 @@
 */
 #define TASK_1_PRIO 1u
 #define TASK_2_PRIO 2u
+#define TASK_3_PRIO 3u
 
 
 /*
@@ -68,7 +69,9 @@ static  CPU_STK  Task3Stk[APP_TASK_START_STK_SIZE];
 */
 
 static  void  AppTaskStart(void  *p_arg);
-static void MyTask(void *p_arg);
+static void MyTask1(void *p_arg);
+static void MyTask2(void *p_arg);
+static void MyTask3(void *p_arg);
 
 /*
 *********************************************************************************************************
@@ -98,7 +101,7 @@ int  main (void)
         (INT16U         )(OS_TASK_OPT_STK_CHK | OS_TASK_OPT_STK_CLR),0,0);
 
 	//1
-	OSTaskCreateExt((void(*)(void *))MyTask,              /* Create the start task                                */
+	OSTaskCreateExt((void(*)(void *))MyTask1,              /* Create the start task                                */
 		(void          *)0,
 		(OS_STK        *)&Task1Stk[APP_TASK_START_STK_SIZE - 1],
 		(INT8U)TASK_1_PRIO,
@@ -110,7 +113,7 @@ int  main (void)
 		3, 1);
 
 	//2
-	OSTaskCreateExt((void(*)(void *))MyTask,              /* Create the start task                                */
+	OSTaskCreateExt((void(*)(void *))MyTask2,              /* Create the start task                                */
 		(void          *)0,
 		(OS_STK        *)&Task2Stk[APP_TASK_START_STK_SIZE - 1],
 		(INT8U)TASK_2_PRIO,
@@ -166,7 +169,7 @@ static  void  AppTaskStart (void *p_arg)
 }
 
 
-static void MyTask(void *p_arg) {
+static void MyTask1(void *p_arg) {
 	int start, end;
 	int toDelay;
 	start = 0;
@@ -187,6 +190,61 @@ static void MyTask(void *p_arg) {
 		//剩余执行时间
 		OSTCBCur->compTime = c; // reset the counter (c ticks for computation)
 		//DDL=周期+start
+		OSTCBCur->ddl = T + start;
+
+		OSTimeDly(toDelay); // delay and wait (T-C) times
+	}
+}
+
+
+static void MyTask2(void *p_arg) {
+	int start, end;
+	int toDelay;
+	start = 0;
+
+	int T = OSTCBCur->p; //任务执行周期
+	int c = OSTCBCur->c; //任务执行时间
+
+	while (1) {
+		//延迟任务不执行
+		while (OSTCBCur->compTime > 0) {
+
+		}
+		end = OSTimeGet();
+
+		toDelay = T - (end - start);//延迟时间=周期-(end-start)
+		start = start + T; // next start time
+
+						   //剩余执行时间
+		OSTCBCur->compTime = c; // reset the counter (c ticks for computation)
+								//DDL=周期+start
+		OSTCBCur->ddl = T + start;
+
+		OSTimeDly(toDelay); // delay and wait (T-C) times
+	}
+}
+
+static void MyTask3(void *p_arg) {
+	int start, end;
+	int toDelay;
+	start = 0;
+
+	int T = OSTCBCur->p; //任务执行周期
+	int c = OSTCBCur->c; //任务执行时间
+
+	while (1) {
+		//延迟任务不执行
+		while (OSTCBCur->compTime > 0) {
+
+		}
+		end = OSTimeGet();
+
+		toDelay = T - (end - start);//延迟时间=周期-(end-start)
+		start = start + T; // next start time
+
+						   //剩余执行时间
+		OSTCBCur->compTime = c; // reset the counter (c ticks for computation)
+								//DDL=周期+start
 		OSTCBCur->ddl = T + start;
 
 		OSTimeDly(toDelay); // delay and wait (T-C) times
