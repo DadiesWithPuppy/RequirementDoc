@@ -1,0 +1,29 @@
+﻿  app_hooks.c
+  app.c
+\\mac\home\desktop\study\大三上作业\需求\requirement\micrium3\software\evalboards\microsoft\windows\os2\app.c(146): warning C4101: “err”: 未引用的局部变量
+  cpu_bsp.c
+  bsp.c
+  os_tmr.c
+  os_time.c
+  os_task.c
+  os_sem.c
+  os_q.c
+  os_mutex.c
+  os_mem.c
+  os_mbox.c
+  os_flag.c
+  os_dbg_r.c
+  os_core.c
+\\mac\home\desktop\study\大三上作业\需求\requirement\micrium3\software\ucos-ii\source\os_core.c(703): warning C4013: “printf”未定义；假设外部返回 int
+  os_cpu_c.c
+  lib_str.c
+  lib_mem.c
+  lib_math.c
+  lib_ascii.c
+  正在生成代码...
+  正在编译...
+  cpu_c.c
+  cpu_core.c
+  正在生成代码...
+  OS2.vcxproj -> \\Mac\Home\Desktop\Study\大三上作业\需求\Requirement\Micrium3\Software\Evalboards\Microsoft\Windows\OS2\Visual Studio\Debug\OS2.exe
+  OS2.vcxproj -> \\Mac\Home\Desktop\Study\大三上作业\需求\Requirement\Micrium3\Software\Evalboards\Microsoft\Windows\OS2\Visual Studio\Debug\OS2.pdb (Full PDB)
